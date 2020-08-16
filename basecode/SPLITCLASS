@@ -1,0 +1,29 @@
+.gallery-text {
+    float: left;
+    width: 48%;
+    margin: 1%;
+}
+.gallery-text p {
+    word-break: break-all;
+}
+
+<div id="gallery-text">
+    <div class="gallery-text">
+        <h3> Header</h3>
+        <p>
+        BodyBodyBodyBodyBodyBodyBodyBodyBodyBodyBodyBodyBodyBody
+            BodyBodyBodyBodyBodyBodyBodyBodyBodyBodyBodyBodyBody
+            BodyBodyBodyBodyBodyBodyBodyBodyBodyBodyBodyBody
+            BodyBodyBodyBodyBodyBodyBodyBodyBodyBodyBodyBodyBody
+        </p>
+    </div>
+    <div class="gallery-text">
+        <h3> Header</h3>
+        <p>
+        BodyBodyBodyBodyBodyBodyBodyBodyBodyBodyBodyBodyBodyBody
+            BodyBodyBodyBodyBodyBodyBodyBodyBodyBodyBodyBodyBody
+            BodyBodyBodyBodyBodyBodyBodyBodyBodyBodyBodyBody
+            BodyBodyBodyBodyBodyBodyBodyBodyBodyBodyBodyBodyBody
+        </p>
+    </div>
+</div>
